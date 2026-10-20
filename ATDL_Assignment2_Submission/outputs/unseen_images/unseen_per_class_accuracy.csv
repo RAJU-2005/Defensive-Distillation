@@ -1,0 +1,11 @@
+Class,Count,Baseline_B_Acc,Teacher_M1_Acc,Student_M2_Acc
+airplane,20,85.0,45.0,50.0
+automobile,20,80.0,100.0,90.0
+bird,20,70.0,10.0,10.0
+cat,20,20.0,25.0,15.0
+deer,20,45.0,45.0,30.0
+dog,20,40.0,15.0,10.0
+frog,20,55.0,80.0,100.0
+horse,20,50.0,40.0,35.0
+ship,20,70.0,65.0,55.0
+truck,20,30.0,40.0,60.0

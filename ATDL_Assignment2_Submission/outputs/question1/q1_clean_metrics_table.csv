@@ -1,0 +1,4 @@
+Model,Architecture,Training Targets,Temperature (T),Epochs,Final Train Loss,Final Train Acc (%),Clean Test Acc (%),Training Time (s),Training Time (min)
+Baseline B,ResNet-34,Ground-truth labels,1,50,0.115,83.91,84.62,3895.2,64.92
+Teacher M1,ResNet-34,Ground-truth labels,20,50,0.1644,81.67,82.35,3800.1,63.34
+Student M2,ResNet-34,Teacher's soft targets,20,50,85.2,80.35,81.9,5312.2,88.54
